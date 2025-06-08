@@ -30,7 +30,7 @@ If you appreciate my work and would like to support future developments, conside
 
 ### TON Address
 ```
-UQA59lyLjF8TXbvAXXyLk9U1f-LN03jyJyit3pXqonZGXZGO
+UQD8DkQu-7dDtlQrvYxS4qfVyTaSoxkMxLMufcq7sHxUwETZ
 ```
 
 ### BTC Address
