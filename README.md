@@ -20,7 +20,7 @@ I strive to stay updated with the latest trends and technologies in programming 
 
 ## Get in Touch
 
-- **Telegram**: [@deviloer](https://t.me/deviloer)
+- **Telegram**: [@cipherblack](https://t.me/cipherblack)
 
 I'm open to collaborations, discussions, and knowledge-sharing about security, programming, and cutting-edge technology.
 
