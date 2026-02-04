@@ -1,46 +1,56 @@
-# Welcome to Cipherblck's GitHub
+<!-- 
+  GitHub Profile README for @cipherblck
+  Feel free to copy-paste and customize
+-->
 
-Hi, I'm **Cipherblck**, a dedicated programmer and web/network security enthusiast. With expertise across multiple programming languages, I focus on building secure, scalable, and innovative solutions.
-
-## Technical Expertise
-
-- **Programming Languages**: `.py`, `.rs`, `.php`, `.js`, `.cs`, `.go`
-- **Specializations**:
-  - Web Application Security: Securing applications against modern threats
-  - Network Security: Ensuring robust and encrypted communication
-  - Automation: Developing intelligent bots and automated systems
-
-## Projects and Focus Areas
-
-- **Web Security**: Tools and frameworks for secure web development
-- **Network Solutions**: Implementing efficient and secure networking protocols
-- **Telegram Bot Development**: Building advanced bots with real-time capabilities
-
-I strive to stay updated with the latest trends and technologies in programming and cybersecurity, applying them to solve real-world challenges.
-
-## Get in Touch
-
-- **Telegram**: [@cipherblack](https://t.me/cipherblack)
-
-I'm open to collaborations, discussions, and knowledge-sharing about security, programming, and cutting-edge technology.
-
-## Donations
-
-If you appreciate my work and would like to support future developments, consider sending a donation to the following addresses:
-
-### TON Address
-```
-UQD8DkQu-7dDtlQrvYxS4qfVyTaSoxkMxLMufcq7sHxUwETZ
-```
-
-### BTC Address
-```
-bc1q3ltptp54pe587axj5ye26pcqqg3sqrlu9fcam0
-```
-
-Your contributions are greatly appreciated and motivate me to continue delivering high-quality work.
+<div align="center">
+  <h1>Hi there, I'm Cipherblck 👋</h1>
+  <p>
+    <strong>Programmer</strong> • <strong>Security Enthusiast</strong> • Builder of secure & scalable systems
+  </p>
+  
+  <p>Passionate about creating robust software and defending digital environments against modern threats.</p>
+  
+  <!-- Optional: you can add a nice animated typing text or badge here later -->
+</div>
 
 ---
 
-Thank you for visiting my profile. Together, we can create a safer, more innovative tech world! :rocket:
+### 🛠️ Technical Stack
 
+**Languages I work with daily:**
+- Python • Rust • Go
+- JavaScript / TypeScript • PHP • C#
+
+**Focus Areas & Specializations**
+- Web Application Security (OWASP Top 10, secure SDLC, pentesting tools)
+- Network Security & Encrypted Communication
+- Secure Backend & API Development
+- Automation & Bot Development (especially Telegram bots)
+- Threat Modeling & Secure Architecture Design
+
+---
+
+### 🚀 What I'm Building & Exploring
+
+- Tools and libraries for **secure web development**
+- High-performance and **secure networking solutions**
+- Advanced **Telegram bots** with real-time features & security in mind
+- Open-source contributions in **cybersecurity** and **developer tooling**
+
+Currently learning more about: **Rust for security-critical applications**, **zero-trust architecture**, and **post-quantum cryptography**.
+
+---
+
+### 📫 Let's Connect
+
+- **Telegram**: [@cipherblack](https://t.me/cipherblack)
+- **GitHub**: Feel free to explore my repositories and open issues/PRs
+- Open to: collaborations, security discussions, code reviews, and knowledge sharing
+
+I'm always excited to talk about **programming**, **cybersecurity**, **system design**, or cool new tech.
+
+---
+
+Thank you for stopping by!  
+Let's build a safer and more innovative digital world together. 🚀
