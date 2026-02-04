@@ -55,6 +55,5 @@ I'm always excited to talk about **programming**, **cybersecurity**, **system de
 Thank you for stopping by!  
 Let's build a safer and more innovative digital world together. 🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipherblck&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
