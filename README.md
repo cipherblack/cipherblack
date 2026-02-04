@@ -54,6 +54,3 @@ I'm always excited to talk about **programming**, **cybersecurity**, **system de
 
 Thank you for stopping by!  
 Let's build a safer and more innovative digital world together. 🚀
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
