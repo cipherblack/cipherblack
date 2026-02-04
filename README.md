@@ -20,7 +20,7 @@
 
 **Languages I work with daily:**
 - Python • Rust • Go
-- JavaScript / TypeScript • PHP • C#
+- JavaScript / TypeScript 
 
 **Focus Areas & Specializations**
 - Web Application Security (OWASP Top 10, secure SDLC, pentesting tools)
@@ -54,3 +54,7 @@ I'm always excited to talk about **programming**, **cybersecurity**, **system de
 
 Thank you for stopping by!  
 Let's build a safer and more innovative digital world together. 🚀
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipherblck&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
