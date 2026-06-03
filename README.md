@@ -19,7 +19,7 @@
 ### 🛠️ Technical Stack
 
 **Languages I work with daily:**
-- Python • Rust • Go
+- Python • Go
 - JavaScript / TypeScript 
 
 **Focus Areas & Specializations**
